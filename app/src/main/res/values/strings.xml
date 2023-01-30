@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlexandreBaracat_COMP304Sec401_Lab1</string>
+    <string name="WelcomeMSG">"Welcome, \n$username"</string>
+</resources>
